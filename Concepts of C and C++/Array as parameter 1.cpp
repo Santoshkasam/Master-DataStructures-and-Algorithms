@@ -15,7 +15,7 @@ void func(int A[]) {
 int main() {
 	int A[] = {2,4,6,8,10};
 	func(A); // The address of the array is passed.
-             // Arrays cannot be passed by value
+             // Arrays cannot be passed by value.
 
     cout << sizeof(A)/sizeof(int) <<endl;
     // Here, A is the array and not a pointer. Hence the sizeof(A) returns the size
