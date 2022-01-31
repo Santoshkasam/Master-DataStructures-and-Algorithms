@@ -7,7 +7,7 @@ using namespace std;
 // This function creates an array in the heap and return the pointer to the array
 int* dynamicArrayOfSize(int n){
     int *P;
-    P = (int *)malloc(n*sizeof(int));
+    P = new int(n);
     return (P);
 }
 
