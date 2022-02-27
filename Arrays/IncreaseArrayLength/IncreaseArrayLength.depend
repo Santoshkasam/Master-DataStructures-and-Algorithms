@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645965685 source:c:\mechatronics\online courses\master datastructures and algorithms\arrays\increasearraylength\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
