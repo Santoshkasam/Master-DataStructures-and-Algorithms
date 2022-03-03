@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646334550 source:c:\mechatronics\online courses\master datastructures and algorithms\arrayadt\arrayadt\main.cpp
+	<iostream>
+	<stdio.h>
+
